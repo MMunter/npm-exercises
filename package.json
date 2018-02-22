@@ -1,0 +1,19 @@
+{
+  "name": "npm-exercises",
+  "version": "1.0.0",
+  "description": "npm install",
+  "main": "npm install <pkg>",
+  "scripts": {
+    "test": "^C"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mdm911/npm-exercises.git"
+  },
+  "author": "Marcy Munter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdm911/npm-exercises/issues"
+  },
+  "homepage": "https://github.com/mdm911/npm-exercises#readme"
+}
